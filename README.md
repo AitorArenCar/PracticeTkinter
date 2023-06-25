@@ -1,10 +1,6 @@
 # PracticeTkinter
 Simple GUI to practice the use of Tkinter on Python.
 
-# README
-
-This is a simple Python project that demonstrates the usage of the `Interfaz` and `Operaciones` classes.
-
 ## Project Structure
 
 The project consists of two files:
